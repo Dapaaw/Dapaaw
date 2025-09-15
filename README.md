@@ -1,16 +1,31 @@
-## Hi there 👋
+##  📱 Praktikum Pemrograman Mobile
 
-<!--
-**Dapaaw/Dapaaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repository ini berisi kumpulan kode hasil praktikum mata kuliah Pemrograman Mobile. Setiap modul praktikum dikerjakan pada **branch terpisah** agar lebih rapi dan mudah dipelajari.
 
-Here are some ideas to get you started:
+## 👨‍💻 Identitas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Nama : Daffa
+
+- NIM : 230605110110
+
+- Kelas : C
+
+- Mata Kuliah : Praktikum Pemrograman Mobile
+
+## 🌿 Struktur Branch dalam Repository 
+
+- main → Praktikum Modul 1 (Pengenalan Mobile Programming dan Setup Lingkungan).
+
+- modul-2 → Praktikum Modul 2 (Widget Row dan Column).
+
+- modul-3 → Praktikum Modul 3 (Pengaturan Layout Row dan Column di Flutter).
+
+- modul-4 → Praktikum Modul 4 (Widget Flexible dan Expanded).
+
+| No  | Praktikum ke | Topik Modul  | Repository | Laporan |
+| ------------ | ------------ | ------------ | ------------ | ------------ |
+| 1 | 1 | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 1](https://github.com/Dapaaw/PrakMobileeeee/tree/main "Modul 1") | [Modul 1](https://drive.google.com/file/d/1uAAz2BpoL02oAFHKVckJ_D_ybj6doVzp/view?usp=drive_link "Modul 1") | 
+| 2 | 1 | Widget Row dan Column |  | [Modul 2](https://github.com/Dapaaw/PrakMobileeeee/tree/modul-2 "Modul 2") |
+| 3 | 2 | Pengaturan Layout Row dan Column di Flutter | [Modul 3](https://drive.google.com/file/d/1jfUvYLyM3VrpnuBSxTirXeOZWn7YJDou/view?usp=drive_link "Modul 3") | [Modul 3](https://github.com/Dapaaw/PrakMobileeeee/tree/modul-3 "Modul 3") |
+| 4 | 2 | Widget Flexible dan Expanded |  |  |  |
+
