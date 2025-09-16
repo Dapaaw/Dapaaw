@@ -1,10 +1,10 @@
 ##  📱 Praktikum Pemrograman Mobile
 
-Repository ini berisi kumpulan kode hasil praktikum mata kuliah Pemrograman Mobile. Setiap modul praktikum dikerjakan pada **branch terpisah** agar lebih rapi dan mudah dipelajari.
+Repository ini berisi kumpulan kode hasil praktikum mata kuliah Pemrograman Mobile. Setiap modul praktikum dikerjakan pada **repository terpisah** agar lebih rapi dan mudah dipelajari.
 
 ## 👨‍💻 Identitas
 
-- Nama : Daffa
+- Nama : Daffa Andika Octadaniswara 
 
 - NIM : 230605110110
 
