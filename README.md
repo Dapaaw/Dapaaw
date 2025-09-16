@@ -12,16 +12,6 @@ Repository ini berisi kumpulan kode hasil praktikum mata kuliah Pemrograman Mobi
 
 - Mata Kuliah : Praktikum Pemrograman Mobile
 
-## 🌿 Struktur Branch dalam Repository 
-
-- main → Praktikum Modul 1 (Pengenalan Mobile Programming dan Setup Lingkungan).
-
-- modul-2 → Praktikum Modul 2 (Widget Row dan Column).
-
-- modul-3 → Praktikum Modul 3 (Pengaturan Layout Row dan Column di Flutter).
-
-- modul-4 → Praktikum Modul 4 (Widget Flexible dan Expanded).
-
 | No  | Praktikum ke | Topik Modul  | Repository | Laporan |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | 1 | 1 | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 1](https://github.com/Dapaaw/PrakMobileeeee/tree/main "Modul 1") | [Modul 1](https://drive.google.com/file/d/1uAAz2BpoL02oAFHKVckJ_D_ybj6doVzp/view?usp=drive_link "Modul 1") | 
