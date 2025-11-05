@@ -25,4 +25,4 @@ Repository ini berisi kumpulan kode hasil praktikum mata kuliah Pemrograman Mobi
 | 9 | 5 | Stateful Widget | [Modul 9](https://github.com/Dapaaw/Modul-9 "Modul 9") | [Modul 9](https://drive.google.com/file/d/1m6hZariZNRBxjL6RJCQAHW1BQ8N1SygF/view?usp=sharing "Modul 9") |
 | 10 | 6 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://github.com/Dapaaw/Modul-10 "Modul 10") | [Modul 10](https://drive.google.com/file/d/1s3XPugu1MCf0LbATuOuhIQZV8i1V_2_B/view?usp=sharing "Modul 10") |
 | 11 | 7 | Manajemen State dengan GetX | [Modul 11](https://github.com/Dapaaw/Modul-11 "Modul 11") | [Modul 11](https://drive.google.com/file/d/1nl8C7X32XTOj6Xk0a8hUgE3C_KsQH1dn/view?usp=sharing "Modul 11") |
-| 11 | 7 | Manajemen State dengan GetX | [Modul 11](https://github.com/Dapaaw/Modul-12 "Modul 12") | [Modul 12](https://drive.google.com/file/d/1mKGYspI3Wirtnf5RbxSBp4qgnmlxgeVj/view?usp=sharing "Modul 12") |
+| 12 | 8 | Akses Lokasi dengan GPS di Flutter | [Modul 11](https://github.com/Dapaaw/Modul-12 "Modul 12") | [Modul 12](https://drive.google.com/file/d/1mKGYspI3Wirtnf5RbxSBp4qgnmlxgeVj/view?usp=sharing "Modul 12") |
