@@ -1,29 +1,61 @@
-##  📱 Praktikum Pemrograman Mobile
+<div align="center">
 
-Repository ini berisi kumpulan kode hasil praktikum mata kuliah Pemrograman Mobile. Setiap modul praktikum dikerjakan pada **repository terpisah** agar lebih rapi dan mudah dipelajari.
+# Hi, I'm [Your Name]
 
-## 👨‍💻 Identitas
+### Laravel-Focused Fullstack Developer
 
-- Nama : Daffa Andika Octadaniswara 
+Building web using Laravel, and modern frontend technologies.
 
-- NIM : 230605110110
+<p align="center">
+  <a href="https://www.linkedin.com/in/daffa-andika-59b72628b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-- Kelas : C
+  <a href="daffaandika38@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-- Mata Kuliah : Praktikum Pemrograman Mobile
+<img src="https://komarev.com/ghpvc/?username=Dapaaw&style=for-the-badge" />
 
-| No  | Praktikum ke | Topik Modul  | Repository | Laporan |
-| ------------ | ------------ | ------------ | ------------ | ------------ |
-| 1 | 1 | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 1](https://github.com/Dapaaw/PrakMobileeeee/tree/main "Modul 1") | [Modul 1](https://drive.google.com/file/d/1uAAz2BpoL02oAFHKVckJ_D_ybj6doVzp/view?usp=drive_link "Modul 1") | 
-| 2 | 1 | Widget Row dan Column | [Modul 2](https://github.com/Dapaaw/Modul-2 "Modul 2") | [Modul 2](https://drive.google.com/file/d/1aVrI_zHUbiHd7i9og0th1osQUB0GIEcB/view?usp=drive_link "Modul 2") |
-| 3 | 2 | Pengaturan Layout Row dan Column di Flutter | [Modul 3](https://github.com/Dapaaw/Modul-3 "Modul 3") | [Modul 3](https://drive.google.com/file/d/1jfUvYLyM3VrpnuBSxTirXeOZWn7YJDou/view?usp=drive_link "Modul 3") |
-| 4 | 2 | Widget Flexible dan Expanded | [Modul 4](https://github.com/Dapaaw/Modul-4 "Modul 4") | [Modul 4](https://drive.google.com/file/d/1qn8v7ElEara_tNVQ0BD28aQtzREqDksu/view?usp=drive_link "Modul 4") |
-| 5 | 3 | Widget SizedBox, Spacer, dan Card | [Modul 5](https://github.com/Dapaaw/Modul-5 "Modul 5") | [Modul 5](https://drive.google.com/file/d/19NUPZzCQjA9LVoIwtZ9XUXKX-wuaLTss/view?usp=drive_link "Modul 5") |
-| 6 | 3 | Widget GridView, ListView, GridView.builder, dan ListView.builder | [Modul 6](https://github.com/Dapaaw/Modul-6 "Modul 6") | [Modul 6](https://drive.google.com/file/d/1mq2RNJ1r4TjFq_MercMNLBATFtu20KBn/view?usp=drive_link "Modul 6") |
-| 7 | 4 | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 7](https://github.com/Dapaaw/Modul-7 "Modul 7") | [Modul 7](https://drive.google.com/file/d/196kiCgBV69V7JyzijVGYxO0uenTJ6gC0/view?usp=sharing "Modul 7") |
-| 8 | 4 | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 8](https://github.com/Dapaaw/Modul-8 "Modul 8") | [Modul 8](https://drive.google.com/file/d/1ghS5GV2ucDZn4fXxkela5SACWUskOzlA/view?usp=sharing "Modul 8") |
-| 9 | 5 | Stateful Widget | [Modul 9](https://github.com/Dapaaw/Modul-9 "Modul 9") | [Modul 9](https://drive.google.com/file/d/1m6hZariZNRBxjL6RJCQAHW1BQ8N1SygF/view?usp=sharing "Modul 9") |
-| 10 | 6 | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://github.com/Dapaaw/Modul-10 "Modul 10") | [Modul 10](https://drive.google.com/file/d/1s3XPugu1MCf0LbATuOuhIQZV8i1V_2_B/view?usp=sharing "Modul 10") |
-| 11 | 7 | Manajemen State dengan GetX | [Modul 11](https://github.com/Dapaaw/Modul-11 "Modul 11") | [Modul 11](https://drive.google.com/file/d/1nl8C7X32XTOj6Xk0a8hUgE3C_KsQH1dn/view?usp=sharing "Modul 11") |
-| 12 | 8 | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://github.com/Dapaaw/Modul-12 "Modul 12") | [Modul 12](https://drive.google.com/file/d/1mKGYspI3Wirtnf5RbxSBp4qgnmlxgeVj/view?usp=sharing "Modul 12") |
-| 13 | 9 | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 13](https://github.com/Dapaaw/Modul-13 "Modul 13") | [Modul 13](https://drive.google.com/file/d/14W88M7rXhQGvW0ZqycK6fTtfGXy3cHKR/view?usp=sharing "Modul 13") |
+</div>
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,javascript,bootstrap,tailwind" />
+
+</div>
+
+---
+
+# Featured Projects
+
+- 💰 Classroom Finance Management System  
+- 🐄 Qurban Management Website  
+- 🏪 UMKM Management System  
+- 📍 Boarding House Finder Application  
+- 📝 Notes Application  
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Currently focusing on Laravel backend development and scalable web applications.
+
+</div>
