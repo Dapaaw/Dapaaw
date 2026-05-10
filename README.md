@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Your Name]
+# Hi, I'm Daffa Andika
 
 ### Laravel-Focused Fullstack Developer
 
@@ -46,9 +46,9 @@ Building web using Laravel, and modern frontend technologies.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dapaaw&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dapaaw&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
